@@ -14,9 +14,13 @@
 ## Tech Stack
 <h3 align='center'>Languages</h3>
 <p>
-  <a href="https://github.com/KDH5706/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <a href="https://github.com/KDH5706/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a> 
+  <a href="https://github.com/KDH5706/Study_Cpp.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>  
+  <a href="https://github.com/KDH5706/Study_C.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>  
 </p>
 
+## Project List
+- [WPF] [WPF프로젝트](https://github.com/KDH5706/StudyWPF/tree/main/portfolio)
 
 <!--
 **KDH5706/KDH5706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
